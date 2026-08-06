@@ -261,4 +261,4 @@ bugradar/
 
 ## Author
 
-Sonu Kumar — [GitHub](https://github.com/Sonu99kr) · [LinkedIn](https://www.linkedin.com/in/sonukr1/)
+Anish Kumar — [GitHub](https://github.com/AnishKr91620/) 
